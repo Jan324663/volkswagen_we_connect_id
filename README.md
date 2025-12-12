@@ -1,5 +1,4 @@
-# Because I no longer have access to a Volkswagen ID vehicle, development on this integration has been discontinued.
-
+# Fork for personal use
 
 
 
